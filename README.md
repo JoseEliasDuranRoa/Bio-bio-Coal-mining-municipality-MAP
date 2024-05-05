@@ -8,6 +8,11 @@ Un script de R muy simple en el que se describe de modo muy sencillo como realiz
 2. Mapas Chile (muy recomendado!) --> respositorio disponible en: https://github.com/pachadotdev/chilemapas
 3. Otro ejemplo para la región de Bío-bío --> véase: https://rpubs.com/Jugarces/1069990
 
+Resultado final:
+
+![Mapa Minería Bío - bío](https://github.com/JoseEliasDuranRoa/Miner-a-de-carb-n-1940-1950-comunas-de-B-o-b-o/assets/109181473/b6516901-a31b-43a6-8fc3-08397d778f57)
+
+
 ## English
 
 A very simple R script that describes  how to make municipality-level maps of any region of Chile based on the information from:
